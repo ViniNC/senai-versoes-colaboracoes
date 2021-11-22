@@ -1,3 +1,4 @@
 # senai-versoes-colaboracoes
-Agora vai
-Sera que vai mesmo ?
+readme de exemplo
+
+lembrei do comando> git commit
